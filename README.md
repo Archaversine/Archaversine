@@ -1,8 +1,10 @@
-# Archaversine - Haskell Developer
+# Archaversine
 
 Undergraduate student at [Knox College](https://www.knox.edu/).
 
 Python developer at [Application Insight](https://www.applicationinsightllc.com/).
+
+Haskell developer in spare time
 
 ## Languages
 
