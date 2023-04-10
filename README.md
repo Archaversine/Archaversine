@@ -17,7 +17,7 @@ Haskell developer in spare time.
     </td>
     <td align="center" width="96">
       <a href="https://python.org">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" style="object-fit: contain;" />
+        <img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -29,25 +29,25 @@ Haskell developer in spare time.
     </td>
     <td align="center" width="96">
       <a href="https://cplusplus.com" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" style="object-fit: contain;" />
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
-        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="48" height="48" alt="C#" style="object-fit: contain;" />
+        <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
       <a href="https://www.javascript.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="48" height="48" alt="Javascript" style="object-fit: contain;" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center"  width="96">
       <a href="https://purescript.org">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PureScript_Logo.png" width="48" height="48" alt="Purescript" style="object-fit: contain;" />
+        <img src="https://static-00.iconduck.com/assets.00/file-type-purescript-icon-512x512-27ky9ql2.png" width="48" height="48" alt="Purescript" />
       </a>
       <br>Purescript
     </td>
