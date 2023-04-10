@@ -10,7 +10,7 @@ Python developer at [Application Insight](https://www.applicationinsightllc.com/
   <tr>
     <td align="center" width="96">
       <a href="https://haskell.org">
-        <img src="https://wiki.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" width="48" height="48" alt="Haskell" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" width="48" height="48" alt="Haskell" />
       </a>
       <br>Haskell
     </td>
