@@ -10,7 +10,7 @@ Python developer at [Application Insight](https://www.applicationinsightllc.com/
   <tr>
     <td align="center" width="96">
       <a href="https://haskell.org">
-        <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" width="48" height="48" alt="Haskell" style="object-fit: contain" />
+        <img src="https://global-uploads.webflow.com/6047a9e35e5dc54ac86ddd90/63064c5652d40eda2eb7a838_33ac2334.png" width="48" height="48" alt="Haskell" style="object-fit: cover" />
       </a>
       <br>Haskell
     </td>
@@ -22,7 +22,7 @@ Python developer at [Application Insight](https://www.applicationinsightllc.com/
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" style="object-fit: contain;" />
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" style="object-fit: cover;" />
       </a>
       <br>Java
     </td>
