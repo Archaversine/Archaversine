@@ -1,6 +1,6 @@
 # Archaversine
 
-Undergraduate student at [Knox College](https://www.knox.edu/).
+Undergraduate student at [Knox College](https://www.knox.edu/). <br />
 Python developer at [Application Insight](https://www.applicationinsightllc.com/).
 
 Haskell developer in spare time.
