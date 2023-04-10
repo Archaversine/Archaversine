@@ -22,7 +22,7 @@ Python developer at [Application Insight](https://www.applicationinsightllc.com/
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" />
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
