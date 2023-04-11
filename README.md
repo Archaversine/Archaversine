@@ -28,6 +28,12 @@ Haskell developer in spare time.
       <br>Java
     </td>
     <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" >
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
       <a href="https://cplusplus.com" >
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="C++" />
       </a>
