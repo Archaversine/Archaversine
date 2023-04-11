@@ -29,7 +29,7 @@ Haskell developer in spare time.
     </td>
     <td align="center" width="96">
       <a href="https://www.cprogramming.com/" >
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="48" height="48" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
