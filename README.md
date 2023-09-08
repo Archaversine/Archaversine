@@ -1,7 +1,7 @@
 # Archaversine
 
 Undergraduate student at [Knox College](https://www.knox.edu/). <br />
-Python developer at [Application Insight](https://www.applicationinsightllc.com/).
+Python developer at [Application Insight](https://www.applicationinsightllc.com/). <br />
 Research Assistant to [Gene Louis Kim](https://cse.usf.edu/~genekim/)
 
 Haskell developer in spare time.
