@@ -2,7 +2,7 @@
 
 Undergraduate student at [Knox College](https://www.knox.edu/). <br />
 Software Engineer at [Application Insight](https://www.applicationinsightllc.com/). <br />
-Research Assistant to [Gene Louis Kim](https://cse.usf.edu/~genekim/)
+Research Assistant to [Gene Louis Kim](https://cse.usf.edu/~genekim/).
 
 Haskell developer in spare time.
 
