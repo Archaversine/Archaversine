@@ -1,10 +1,10 @@
 # Archaversine
 
-Undergraduate student at [Knox College](https://www.knox.edu/). <br />
+PhD Student at [University of Rochester](https://www.rochester.edu/)
+(Graduated) Bachelor's student from [Knox College](https://www.knox.edu/). <br />
 Director of Software Engineering at [Application Insight](https://www.applicationinsightllc.com/). <br />
-Research Assistant to [Gene Louis Kim](https://cse.usf.edu/~genekim/).
 
-Haskell developer in spare time.
+Haskell developer experienced in most mainstream languages.
 
 ## Languages
 
