@@ -54,7 +54,7 @@ Haskell developer experienced in most mainstream languages.
     </td>
     <td align="center"  width="96">
       <a href="https://purescript.org">
-        <img src="https://static-00.iconduck.com/assets.00/file-type-purescript-icon-512x512-27ky9ql2.png" width="48" height="48" alt="Purescript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PureScript_Logo.png/250px-PureScript_Logo.png" width="48" height="48" alt="Purescript" />
       </a>
       <br>Purescript
     </td>
