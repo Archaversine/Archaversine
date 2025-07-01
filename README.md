@@ -18,7 +18,7 @@ Haskell developer experienced in most mainstream languages.
     </td>
     <td align="center" width="96">
       <a href="https://python.org">
-        <img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" width="48" height="48" alt="Python" />
+        <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
