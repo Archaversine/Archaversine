@@ -42,7 +42,7 @@ Haskell developer experienced in most mainstream languages.
     </td>
     <td align="center" width="96">
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" >
-        <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="48" height="48" alt="C#" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6kzofHynSBePgnIw86T9Nae-pob7ufACGvA&s" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
