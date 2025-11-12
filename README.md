@@ -6,6 +6,8 @@ Director of Software Engineering at [Application Insight](https://www.applicatio
 
 Haskell developer experienced in most mainstream languages.
 
+Website: [adambrohl.dev](adambrohl.dev)
+
 ## Languages
 
 <table>
